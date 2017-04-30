@@ -1,0 +1,11 @@
+{
+  "name": "tonkotsuboypage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://tonkotsuboy_com@github.com/tonkotsuboy/tonkotsuboy.github.io.git",
+  "author": "tonkotsuboy_com <t.kano.624@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
+}
